@@ -1,1 +1,10 @@
-lib/assets/bower_components
+# Ignore bundler config.
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/log/*
+!/log/.keep
+/tmp
+/.env
+/public/system
+/public/test
