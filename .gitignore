@@ -12,3 +12,4 @@
 # Ignore JS dependencies
 /node_modules
 /lib/assets/bower_components
+/npm-debug.log
